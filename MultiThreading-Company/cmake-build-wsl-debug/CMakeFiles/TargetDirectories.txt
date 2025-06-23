@@ -1,3 +1,0 @@
-/mnt/c/Users/rsans/CLionProjects/OSY/hw1/cmake-build-wsl-debug/CMakeFiles/hw1.dir
-/mnt/c/Users/rsans/CLionProjects/OSY/hw1/cmake-build-wsl-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/rsans/CLionProjects/OSY/hw1/cmake-build-wsl-debug/CMakeFiles/rebuild_cache.dir
