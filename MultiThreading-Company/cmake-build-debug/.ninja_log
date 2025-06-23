@@ -1,0 +1,7 @@
+# ninja log v5
+11	1930	7634737053532769	CMakeFiles/hw1.dir/sample_tester.cpp.obj	dbe318eec62228a7
+0	9	0	clean	567f01a6bad3308b
+6	97	7634737288913467	CMakeFiles/hw1.dir/threadUtils.cpp.obj	4a1da634691f5091
+4	2684	7635230280367247	CMakeFiles/hw1.dir/solution.cpp.obj	858cc472c06daeb6
+1	158	7646076214165619	build.ninja	b67d52ef8479f1d9
+98	945	7634737297298015	hw1.exe	fc9b5d1e2405d723

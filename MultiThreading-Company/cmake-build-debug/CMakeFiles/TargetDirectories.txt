@@ -1,0 +1,3 @@
+C:/Users/rsans/CLionProjects/OSY/hw1/cmake-build-debug/CMakeFiles/hw1.dir
+C:/Users/rsans/CLionProjects/OSY/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rsans/CLionProjects/OSY/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

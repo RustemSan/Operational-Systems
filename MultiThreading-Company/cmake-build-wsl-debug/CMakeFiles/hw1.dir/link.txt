@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hw1.dir/solution.cpp.o CMakeFiles/hw1.dir/sample_tester.cpp.o -o hw1   -L/mnt/c/Users/rsans/CLionProjects/OSY/hw1/x86_64-linux-gnu  -Wl,-rpath,/mnt/c/Users/rsans/CLionProjects/OSY/hw1/x86_64-linux-gnu -Wl,-Bstatic -lprogtest_solver -Wl,-Bdynamic 
